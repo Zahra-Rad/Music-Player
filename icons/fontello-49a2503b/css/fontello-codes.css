@@ -1,0 +1,4 @@
+
+.icon-play:before { content: '\e800'; } /* '' */
+.icon-fast-fw:before { content: '\e801'; } /* '' */
+.icon-rewind:before { content: '\e802'; } /* '' */
